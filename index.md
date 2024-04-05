@@ -5,7 +5,7 @@
   <b1> My research interests are computational/large-scale inverse problems, uncertainty quantification, and numerical linear algebra. </b1>
 
   <b1> My CV </b1>
-  
+  <section>
   <h2> Current Projects </h2>
   <b1> 
     
@@ -13,7 +13,8 @@
     
   - Sampling approaches for separable non-linear Bayesian inverse problems
   </b1>
-
+  </section>
+  <section>
   <h2> Upcoming!! </h2>
   <b1> 
 
