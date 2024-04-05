@@ -2,7 +2,7 @@
 I am a 2nd year PhD student in Computational Mathematics at Emory University working with [Julianne Chung](https://www.math.emory.edu/~jmchung/).
 My research interests are computational/large-scale inverse problems, uncertainty quantification, and numerical linear algebra. 
 
-My CV
+See by CV [here](https://github.com/ellebuser/ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf).
 
 ### Current Projects   
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
@@ -26,13 +26,17 @@ My CV
 
 ### Posters
   
-  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. Poster.
+  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https://github.com/ellebuser/ellebuser.github.io/documents/GSCS_2024_Poster_Buser.pdf).
     
 ### Conferences 
   - AMS Southeastern Sectional Meeting, 2023, Georgia Institute of Technology, Atlanta, GA.
   - SIAM Conference on Mathematics of Data Science (MDS22), 2022, online.
   - Georgia Scientific Computing Symposium, 2022, 2023, 2024.
-    
+
+### Personal
+  - I have a cat named [Tofu](https://github.com/ellebuser/ellebuser.github.io/documents/tofu2.jpeg)
+  - I like [backpacking](https://github.com/ellebuser/ellebuser.github.io/documents/backpacking1.jpeg)
+  - Cool [family](https://github.com/ellebuser/ellebuser.github.io/documents/family.jpeg)
 
 
   
