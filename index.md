@@ -6,7 +6,6 @@
 
   <b1> My CV </b1>
   
-  <section>
   <h2> Current Projects </h2>
   <b1> 
     
@@ -14,8 +13,7 @@
     
   - Sampling approaches for separable non-linear Bayesian inverse problems
   </b1>
-  </section>
-  <section>
+
   <h2> Upcoming!! </h2>
   <b1> 
 
@@ -25,8 +23,7 @@
     
   - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
   </b1>
-  </section>
-  <section>
+
   <h2> Publications </h2>
   <b1>
   
@@ -35,8 +32,7 @@
   - The Wind beneath My Wings. I. Spectral Types and Multiplicity of the Central Stars Supporting Stellar Bow Shock Nebulae. William T Chick et al. The Astrophysical Journal Supplement Series, 2020. Website, arxiv.
     
   </b1>
-  </section>  
-  <section>
+
   <h2> Talks </h2>
   <b1> 
     
@@ -46,15 +42,13 @@
     
   - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images, 2022 Georgia Scientific Computing Symposium lightening talk, Georgia Institute of Technology, Atlanta, GA. 
   </b1>
-  </section>
-  <section>
+
   <h2> Posters </h2>
   <b1>
 
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. Poster.
   </b1>
 
-  <section>
   <h2> Conferences </h2>
   <b1>
     
@@ -64,7 +58,7 @@
     
   - Georgia Scientific Computing Symposium, 2022, 2023, 2024.  
   </b1>
-  </section>
+
 
 
   
