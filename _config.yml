@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Elle Buser
 description: ebuser [at] emory [dot] edu 
-logo: ![]('/documents/tofu2.jpeg')
+logo: ![](/documents/tofu2.jpeg)
