@@ -1,5 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
+theme: jekyll-theme-minimal
+title: Elle Buser
+author: Elle Buser
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
