@@ -3,6 +3,6 @@ title: Elle Buser
 description: ebuser [at] emory [dot] edu 
 
 include:
-  - styles.css
-picture: <img src="https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/Buser.png" width="25">
+  - assets/css/styles.css
+picture: <img src="https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/Buser.png" class="custom-image">
 
