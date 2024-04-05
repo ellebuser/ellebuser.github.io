@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
 title: Elle Buser
 description: ebuser [at] emory [dot] edu 
-photo: https:///ellebuser.github.io/documents/tofu2.jpeg
-
-author:
-  name: Elle Buser
-  avatar: "/documents/tofu2.jpeg"
+photo: '/documents/tofu2.jpeg'
