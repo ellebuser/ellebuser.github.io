@@ -19,7 +19,7 @@ My CV
   
   - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images. Elle Buser, Emma Hart, and Ben Huenemann. SIAM Undergraduate Research Online, 2022. Website, arxiv.
   - The Wind beneath My Wings. I. Spectral Types and Multiplicity of the Central Stars Supporting Stellar Bow Shock Nebulae. William T Chick et al. The Astrophysical Journal Supplement Series, 2020. Website, arxiv.
-  - 
+    
 ### Talks
   - Hybrid projection methods for MRI reconstruction and uncertainty quantification, DISC graduate student seminar, Emory University, Atlanta, GA.
   - Sampling methods for reduced order models, DISC graduate student seminar, Emory University.
