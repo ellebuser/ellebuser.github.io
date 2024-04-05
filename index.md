@@ -1,5 +1,3 @@
-<img src="documents/tofu2.jpeg"/>
-
 ## Hello!
 I am a 2nd year PhD student in Computational Mathematics at Emory University working with [Julianne Chung](https://www.math.emory.edu/~jmchung/).
 
