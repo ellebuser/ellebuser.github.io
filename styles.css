@@ -1,0 +1,5 @@
+/* styles.css */
+.custom-image {
+    width: 200px;
+    height: auto; /* This maintains the aspect ratio */
+}
