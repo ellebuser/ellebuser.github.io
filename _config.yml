@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Elle Buser
 description: ebuser [at] emory [dot] edu 
 logo: 
-  image: ./documents/tofu2.jpeg
+  image: /documents/tofu2.jpeg
   
