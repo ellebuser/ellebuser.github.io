@@ -1,5 +1,4 @@
-
-<h2> Hello! </h2>
+## Hello!
   <b1> I am a 2nd year PhD student in Computational Mathematics at Emory University working with Julianne Chung.    </b1>
 
   <b1> My research interests are computational/large-scale inverse problems, uncertainty quantification, and numerical linear algebra. 
@@ -9,7 +8,7 @@
   My CV
   </b1>
 
-<h3> Current Projects </h3>
+### Current Projects
   <b1>    
     
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
@@ -17,8 +16,7 @@
     
   </b1>
 
-  <br>
-<h3> Upcoming!! </h3>
+### Upcoming!! 
   <b1> 
   
   - 18th Copper Mountain Conference On Iterative Methods, 2024, Copper Mountain, CO.
@@ -29,8 +27,7 @@
     
   </b1>
 
-<br>
-<h3> Publications </h3>
+### Publications
 
   <b1>
   
@@ -40,8 +37,7 @@
     
   </b1>
 
-<br>
-<h3> Talks </h3>
+### Talks
 
   <b1> 
     
@@ -53,17 +49,15 @@
     
   </b1>
 
-<br>
-<h3> Posters </h3>
+### Posters
 
   <b1>
   
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. Poster.
-  - 
+
   </b1>
 
-<br>
-<h3> Conferences </h3>
+### Conferences 
   
   <b1>
     
