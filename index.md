@@ -7,27 +7,29 @@
   My CV
   </b1>
 
-  <h3> Current Projects </h3>
+<h3> Current Projects </h3>
   <b1>    
     
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
-    
   - Sampling approaches for separable non-linear Bayesian inverse problems
-
+    
   </b1>
-  <h3> Upcoming!! </h3>
-  <b1> 
 
+  
+<h3> Upcoming!! </h3>
+  <b1> 
+  
   - 18th Copper Mountain Conference On Iterative Methods, 2024, Copper Mountain, CO.
     
   - SIAM Conference on Imaging Science (IS24) minisymposium talk, 2024, Atlanta, GA
     
   - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
+    
   </b1>
-  
 
-  <h3> Publications </h3>
-  
+
+<h3> Publications </h3>
+
   <b1>
   
   - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images. Elle Buser, Emma Hart, and Ben Huenemann. SIAM Undergraduate Research Online, 2022. Website, arxiv.
@@ -36,28 +38,30 @@
     
   </b1>
 
-  
-  <h3> Talks </h3>
-  
+
+<h3> Talks </h3>
+
   <b1> 
     
   - Hybrid projection methods for MRI reconstruction and uncertainty quantification, DISC graduate student seminar, Emory University, Atlanta, GA.
     
   - Sampling methods for reduced order models, DISC graduate student seminar, Emory University.
     
-  - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images, 2022 Georgia Scientific Computing Symposium lightening talk, Georgia Institute of Technology, Atlanta, GA. 
+  - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images, 2022 Georgia Scientific Computing Symposium lightening talk, Georgia Institute of Technology, Atlanta, GA.
+    
   </b1>
 
-  
-  <h3> Posters </h3>
-  
+
+<h3> Posters </h3>
+
   <b1>
-
+  
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. Poster.
+  - 
   </b1>
 
-  
-  <h3> Conferences </h3>
+
+<h3> Conferences </h3>
   
   <b1>
     
@@ -65,7 +69,8 @@
     
   - SIAM Conference on Mathematics of Data Science (MDS22), 2022, online.
     
-  - Georgia Scientific Computing Symposium, 2022, 2023, 2024.  
+  - Georgia Scientific Computing Symposium, 2022, 2023, 2024.
+    
   </b1>
   
 
