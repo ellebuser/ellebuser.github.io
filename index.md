@@ -27,7 +27,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 
 ### Posters
   
-  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/GSCS_2024_Poster_Buser.pdf).
+  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https://ellebuser.github.io/documents/GSCS_2024_Poster_Buser.pdf).
     
 ### Conferences 
   - AMS Southeastern Sectional Meeting, 2023, Georgia Institute of Technology, Atlanta, GA.
@@ -35,9 +35,9 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
   - Georgia Scientific Computing Symposium, 2022, 2023, 2024.
 
 ### Personal
-  - I have a cat named [Tofu](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/tofu2.jpeg)
-  - I like [backpacking](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/backpacking1.jpeg)
-  - Cool [family](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/family.jpeg)
+  - I have a cat named [Tofu](https://ellebuser.github.io/documents/tofu2.jpeg)
+  - I like [backpacking](https://ellebuser.github.io/documents/backpacking1.jpeg)
+  - Cool [family](https://ellebuser.github.io/documents/family.jpeg)
 
 
   
