@@ -1,8 +1,9 @@
 ## Hello!
 I am a 2nd year PhD student in Computational Mathematics at Emory University working with [Julianne Chung](https://www.math.emory.edu/~jmchung/).
+
 My research interests are computational/large-scale inverse problems, uncertainty quantification, and numerical linear algebra. 
 
-See by CV [here](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/ElleBuser_CV_Jan2024.pdf).
+See my CV [here](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/ElleBuser_CV_Jan2024.pdf).
 
 ### Current Projects   
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
