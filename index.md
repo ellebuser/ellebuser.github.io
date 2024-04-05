@@ -6,7 +6,7 @@
 
   <b1> My CV </b1>
     
-  <h2> Current Projects </h2>
+  <h3> Current Projects </h3>
   <section>
   <b1> 
     
@@ -17,7 +17,7 @@
 
   </section>
 
-  <h2> Upcoming!! </h2>
+  <h3> Upcoming!! </h3>
   <section>
   <b1> 
 
@@ -29,7 +29,7 @@
   </b1>
   </section>
 
-  <h2> Publications </h2>
+  <h3> Publications </h3>
   <section>
   <b1>
   
@@ -40,7 +40,7 @@
   </b1>
 
   </section>
-  <h2> Talks </h2>
+  <h3> Talks </h3>
   <section>
   <b1> 
     
@@ -52,7 +52,7 @@
   </b1>
 
   </section>
-  <h2> Posters </h2>
+  <h3> Posters </h3>
   <section>
   <b1>
 
@@ -60,7 +60,7 @@
   </b1>
 
   </section>
-  <h2> Conferences </h2>
+  <h3> Conferences </h3>
   <section>
   <b1>
     
