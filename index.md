@@ -2,7 +2,7 @@
 I am a 2nd year PhD student in Computational Mathematics at Emory University working with [Julianne Chung](https://www.math.emory.edu/~jmchung/).
 My research interests are computational/large-scale inverse problems, uncertainty quantification, and numerical linear algebra. 
 
-See by CV [here](https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/ElleBuser_CV_Jan2024.pdf).
+See by CV [here](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/ElleBuser_CV_Jan2024.pdf).
 
 ### Current Projects   
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
@@ -26,7 +26,7 @@ See by CV [here](https://raw.githubusercontent.com/ellebuser/ellebuser.github.io
 
 ### Posters
   
-  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/GSCS_2024_Poster_Buser.pdf).
+  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/GSCS_2024_Poster_Buser.pdf).
     
 ### Conferences 
   - AMS Southeastern Sectional Meeting, 2023, Georgia Institute of Technology, Atlanta, GA.
@@ -34,9 +34,9 @@ See by CV [here](https://raw.githubusercontent.com/ellebuser/ellebuser.github.io
   - Georgia Scientific Computing Symposium, 2022, 2023, 2024.
 
 ### Personal
-  - I have a cat named [Tofu](https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/tofu2.jpeg)
-  - I like [backpacking](https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/backpacking1.jpeg)
-  - Cool [family](https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/family.jpeg)
+  - I have a cat named [Tofu](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/tofu2.jpeg)
+  - I like [backpacking](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/backpacking1.jpeg)
+  - Cool [family](https://github.com/ellebuser/ellebuser.github.io/raw/main/documents/family.jpeg)
 
 
   
