@@ -36,7 +36,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 
 ### Personal
   - I have a cat named [Tofu](https:///ellebuser.github.io/documents/tofu2.jpeg)
-  - I like [backpacking](https:///ellebuser.github.io/documents/backpacking1.jpeg)
+  - I like hiking and [backpacking](https:///ellebuser.github.io/documents/backpacking1.jpeg)
   - Cool [family](https:///ellebuser.github.io/documents/family.jpeg)
 
 
