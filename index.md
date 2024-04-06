@@ -1,5 +1,5 @@
 ## Hello! 
-I am a 2nd year PhD student in Computational Mathematics at Emory University working with [Julianne Chung](https://www.math.emory.edu/~jmchung/).
+I am a 2nd year PhD student in Computational Mathematics at Emory University advised by Professor [Julianne Chung](https://www.math.emory.edu/~jmchung/).
 
 My research interests are computational/large-scale inverse problems, uncertainty quantification, and numerical linear algebra. 
 
