@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Elle Buser"
-description: "ebuser@emory.edu"
+description: "Email: ebuser@emory.edu"
 
 include:
   - assets/css/styles.css
