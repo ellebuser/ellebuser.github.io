@@ -1,5 +1,3 @@
-<center>Title</center>
-
 ## Hello! 
 I am a 2nd year PhD student in Computational Mathematics at Emory University working with [Julianne Chung](https://www.math.emory.edu/~jmchung/).
 
