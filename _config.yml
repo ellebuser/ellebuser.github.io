@@ -4,5 +4,7 @@ description: ebuser [at] emory [dot] edu
 
 include:
   - assets/css/styles.css
-picture: <img src="https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/Buser.png" class="custom-image">
+
+logo: https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/Buser.png
+#picture: <img src="https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/Buser.png" class="custom-image">
 
