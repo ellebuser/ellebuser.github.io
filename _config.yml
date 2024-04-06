@@ -1,10 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Elle Buser"
 description: "Email: ebuser@emory.edu"
-
-include:
-  - assets/css/styles.css
-
 logo: https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/Buser.png
-#picture: <img src="https://raw.githubusercontent.com/ellebuser/ellebuser.github.io/main/documents/Buser.png" class="custom-image">
+
 
