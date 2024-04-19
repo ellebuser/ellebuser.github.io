@@ -11,7 +11,6 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 
 ### Upcoming!! 
   
-  - 18th Copper Mountain Conference On Iterative Methods, 2024, Copper Mountain, CO.
   - SIAM Conference on Imaging Science (IS24) minisymposium talk, 2024, Atlanta, GA
   - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
 
@@ -30,6 +29,8 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https:///ellebuser.github.io/documents/GSCS_2024_Poster_Buser.pdf).
     
 ### Conferences 
+  
+  - 18th Copper Mountain Conference On Iterative Methods, 2024, Copper Mountain, CO.
   - AMS Southeastern Sectional Meeting, 2023, Georgia Institute of Technology, Atlanta, GA.
   - SIAM Conference on Mathematics of Data Science (MDS22), 2022, online.
   - Georgia Scientific Computing Symposium, 2022, 2023, 2024.
