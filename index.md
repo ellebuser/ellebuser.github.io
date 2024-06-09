@@ -7,7 +7,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 
 ### Current Projects   
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
-  - Sampling approaches for separable non-linear Bayesian inverse problems
+  - Separable non-linear Bayesian inverse problems
 
 ### Upcoming!! 
   
