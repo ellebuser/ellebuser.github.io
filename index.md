@@ -1,5 +1,5 @@
 ## Hello! 
-I am a 2nd year PhD student in Computational Mathematics at Emory University advised by Professor [Julianne Chung](https://www.math.emory.edu/~jmchung/).
+I am a 3rd year PhD student in Computational Mathematics at Emory University advised by Professor [Julianne Chung](https://www.math.emory.edu/~jmchung/).
 
 My research interests are computational/large-scale inverse problems, uncertainty quantification, and numerical linear algebra. 
 
@@ -12,7 +12,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 
 ### Upcoming!! 
   
-  - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
+  - N/A :( 
 
 ### Publications
   
@@ -29,8 +29,9 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
   
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https:///ellebuser.github.io/documents/GSCS_2024_Poster_Buser.pdf)
     
-### Conferences 
+### Conferences & More
   
+  - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
   - SIAM Conference on Imaging Sciences (IS24), 2024, Atlanta, GA.
   - 18th Copper Mountain Conference On Iterative Methods, 2024, Copper Mountain, CO.
   - AMS Southeastern Sectional Meeting, 2023, Georgia Institute of Technology, Atlanta, GA.
@@ -40,7 +41,8 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 ### Personal
   - I have a cat named [Tofu](https:///ellebuser.github.io/documents/tofu2.jpeg)
   - I like hiking and [backpacking](https:///ellebuser.github.io/documents/backpacking1.jpeg)
-  - Cool [family](https:///ellebuser.github.io/documents/family.jpeg)
+  - [Cotopaxi on Cotopaxi!!](https:///ellebuser.github.io/documents/cotopaxi.png)
+  - Cool [family](https:///ellebuser.github.io/documents/family.png)
 
 
   
