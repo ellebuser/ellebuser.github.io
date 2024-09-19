@@ -12,7 +12,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 
 ### Upcoming!! 
   
-  - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
+  - NA :(
 
 ### Publications
   
@@ -31,6 +31,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
     
 ### Conferences & More
   
+  - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
   - SIAM Conference on Imaging Sciences (IS24), 2024, Atlanta, GA.
   - 18th Copper Mountain Conference On Iterative Methods, 2024, Copper Mountain, CO.
   - AMS Southeastern Sectional Meeting, 2023, Georgia Institute of Technology, Atlanta, GA.
