@@ -39,7 +39,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
   - Georgia Scientific Computing Symposium, 2022, 2023, 2024.
 
 ### Personal
-  - I have a cat named [Tofu](https:///ellebuser.github.io/documents/tofu2.jpeg)
+  - I have a cat named [Tofu](https:///ellebuser.github.io/documents/tofu3.jpeg)
   - I like hiking and [backpacking](https:///ellebuser.github.io/documents/backpacking1.jpeg)
   - [Cotopaxi on Cotopaxi!!](https:///ellebuser.github.io/documents/cotopaxi.png)
   - Cool [family](https:///ellebuser.github.io/documents/family.png)
