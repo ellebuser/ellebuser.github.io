@@ -13,6 +13,8 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
 ### Upcoming!! 
   
   - SIAM UQ 2026
+  - 2026 Spring Research Conference (SRC)
+  - 27th Conference of the International Linear Algebra Society
 
 ### Publications
   - A Joint Variational Framework for Multimodal X-ray Ptychography and Fluorescence Reconstruction. Eric Zou, Elle Buser, Zichao Wendy Di, and Yuanzhe Xi. Submitted, 2025. [arxiv](https://arxiv.org/abs/2511.02153)
