@@ -15,7 +15,7 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf
   - SIAM UQ 2026
 
 ### Publications
-  
+  - A Joint Variational Framework for Multimodal X-ray Ptychography and Fluorescence Reconstruction. Eric Zou, Elle Buser, Zichao Wendy Di, and Yuanzhe Xi. Submitted, [arxiv](https://arxiv.org/abs/2511.02153)
   - Efficient sampling approaches based on generalized Golub-Kahan methods for large-scale hierarchical Bayesian inverse problems. Elle Buser and Julianne Chung. In review, [arxiv](https://arxiv.org/abs/2502.03281). 
   - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images. Elle Buser, [Emma Hart](https://math.emory.edu/~ehart5/), and Ben Huenemann. SIAM Undergraduate Research Online, 2022. [PDF](https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S144839.pdf), [arxiv](https://arxiv.org/abs/2109.14116).
   - The Wind beneath My Wings. I. Spectral Types and Multiplicity of the Central Stars Supporting Stellar Bow Shock Nebulae. William T Chick et al. The Astrophysical Journal Supplement Series, 2020. [Website](https://iopscience.iop.org/article/10.3847/1538-4365/abc0e5#:~:text=Eighty%2Done%20of%2084%20sources,overwhelmingly%20consistent%20with%20OB%20stars.).
