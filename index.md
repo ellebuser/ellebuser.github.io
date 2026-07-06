@@ -3,7 +3,7 @@ I am a 4th year PhD student in Computational Mathematics at Emory University ([\
 
 My research interests are computational/Bayesian inverse problems, uncertainty quantification, and numerical linear algebra. 
 
-See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf).
+See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_July2026.pdf).
 
 ### Current Projects   
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
