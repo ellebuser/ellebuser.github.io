@@ -1,20 +1,9 @@
 ## Hello! 
 I am a 4th year PhD student in Computational Mathematics at Emory University ([\<codes\>](https://www.math.emory.edu/site/codes/){:target="_blank"}) advised by Professor [Julianne Chung](https://www.math.emory.edu/~jmchung/){:target="_blank"}.
 
-My research interests are computational/Bayesian inverse problems, uncertainty quantification, and numerical linear algebra. 
+My research interests are computational/Bayesian inverse problems, uncertainty quantification, and numerical linear algebra.
 
 See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_July2026.pdf){:target="_blank"}.
-
-### Current Projects   
-  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems
-  - Separable non-linear Bayesian inverse problems
-  - Stochastic average approximations for hyperparameter estimation
-
-### Upcoming!! 
-  
-  - SIAM UQ 2026
-  - 2026 Spring Research Conference (SRC)
-  - 27th Conference of the International Linear Algebra Society
 
 ### Publications
   - A Majorization-Minimization with Monte Carlo Approach for Hyperparameter Estimation. Elle Buser, Julianne Chung, Hugo Diaz, and Arvind K. Saibaba. Submitted, 2026. [arxiv](https://arxiv.org/abs/2605.13620){:target="_blank"}
