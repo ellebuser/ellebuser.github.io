@@ -17,21 +17,22 @@ See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_July2026.pd
   - 27th Conference of the International Linear Algebra Society
 
 ### Publications
+  - A Majorization-Minimization with Monte Carlo Approach for Hyperparameter Estimation. Elle Buser, Julianne Chung, Hugo Diaz, and Arvind K. Saibaba. Submitted, 2026. [arxiv](https://arxiv.org/abs/2605.13620){:target="_blank"}
   - A Joint Variational Framework for Multimodal X-ray Ptychography and Fluorescence Reconstruction. Eric Zou, Elle Buser, Zichao Wendy Di, and Yuanzhe Xi. Submitted, 2025. [arxiv](https://arxiv.org/abs/2511.02153){:target="_blank"}
   - Efficient sampling approaches based on generalized Golub-Kahan methods for large-scale hierarchical Bayesian inverse problems. Elle Buser and Julianne Chung. In review, 2025. [arxiv](https://arxiv.org/abs/2502.03281){:target="_blank"} 
   - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images. Elle Buser, [Emma Hart](https://math.emory.edu/~ehart5/), and Ben Huenemann. SIAM Undergraduate Research Online, 2022. [PDF](https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S144839.pdf), [arxiv](https://arxiv.org/abs/2109.14116){:target="_blank"}
   - The Wind beneath My Wings. I. Spectral Types and Multiplicity of the Central Stars Supporting Stellar Bow Shock Nebulae. William T Chick et al. The Astrophysical Journal Supplement Series, 2020. [Website](https://iopscience.iop.org/article/10.3847/1538-4365/abc0e5#:~:text=Eighty%2Done%20of%2084%20sources,overwhelmingly%20consistent%20with%20OB%20stars.){:target="_blank"}
     
 ### Talks
+  - (Invited) Natural Gradient Descent for Hyperparameter Estimation in Bayesian Inverse Problems, IMS/ASA Spring Research Conference, Clemson, SC.
+  - (Invited) `Natural Gradient Descent for Hyperparameter Estimation in Bayesian Inverse Problems, ILAS, Blacksburg, VA.
+  - (Invited) Computational Methods For Hyperparameter Estimation with Applications to Separable Nonlinear Inverse Problems, SIAM UQ, Minneapolis, MN.
   - Generalized Golub-Kahan Methods for Large-Scale Hierarchical Bayesian Inverse Problems, SIAM AN25, Montreal, Canada
   - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, SIAM IS24, Atlanta, GA. [Slides](https:///ellebuser.github.io/documents/Buser_SIAM_IS24_hierarchical_Bayesian_inverse_problems.pdf){:target="_blank"}
   - Hybrid projection methods for MRI reconstruction and uncertainty quantification, DISC graduate student seminar, Emory University, Atlanta, GA.
   - Sampling methods for reduced order models, DISC graduate student seminar, Emory University.
   - Comparison of Atlas-Based and Neural-Network-Based Semantic Segmentation for DENSE MRI Images, 2022 Georgia Scientific Computing Symposium lightening talk, Georgia Institute of Technology, Atlanta, GA.
 
-### Posters
-  
-  - Krylov subspace methods for large-scale hierarchical Bayesian inverse problems, 2024 Georgia Scientific Computing Symposium, Emory University, Atlanta, GA. [Poster](https:///ellebuser.github.io/documents/GSCS_2024_Poster_Buser.pdf){:target="_blank"}
     
 ### Conferences & More
   
